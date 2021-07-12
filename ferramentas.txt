@@ -1,0 +1,2 @@
+https://docs.netlify.com/routing/redirects/
+https://app.netlify.com
